@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @domglov -- I'm an Australian 🇦🇺 living in SF 🌁 working at Robust Intelligence
-- 👀 I’m interested in building B2B GTM organizations + growth, robust machine learning and data science
-- 🌱 I’m currently learning the basics of implementing data science, having spent time since joining RI studying ML from a non-technical perspective. 
-- 😀 I’m always looking to learn and connect with people - I would love to trade notes on resources for learning data science! 
+- 👋 Hi, I’m @domglov -- I'm an Australian 🇦🇺 living in SF 🌁 working at Coalition - a cyber insurance startup. I've previously worked at Samsara, Robust Intelligence, and Chorus.ai.
+- 👀 I’m interested in using technology to drive growth and efficiency, whether that's generative AI, machine learning, Zapier automations, or automated Google Sheets.
+- 🌱 I’m currently learning computer science at Penn (starting Fall '24) and applying it at Coalition. 
 - 📫 Hit me up on [LinkedIn!](https://www.linkedin.com/in/dominic-glover/)
 
 <!---
